@@ -11,6 +11,9 @@ IOWA Dataset Link: https://drive.google.com/file/d/1P7yK2RzmLvVY9-avomTVvvNxLkPT
 Scrapped Dataset: https://drive.google.com/file/d/1frrCHBqil_eCGyCdHw1B7hHbCJn2DRkZ/view?usp=sharing
 ## Real Estate Investment Prediction for the State of IOWA  
 
+# COLAB LINKS
+Main Colab: https://colab.research.google.com/drive/1aEYSn5zhoKjjRyBtsyUKsaKyICRR64MU?usp=sharing
+Scrapping Colab: https://colab.research.google.com/drive/12auv638GZARH6bjsiYzBLMtMOsqe2vFR#scrollTo=kbX2hSKHEfwH
 # CRISP-DM
 ADD HERE
 
