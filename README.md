@@ -24,6 +24,9 @@ Scrapping Colab: https://colab.research.google.com/drive/12auv638GZARH6bjsiYzBLM
 # Project PPT
 https://github.com/shivamishu/Data-Mining-Final-Project/blob/main/DM_Project_Real%20Estate%20Investment%20Prediction.pdf
 
+# Project Document
+https://github.com/shivamishu/Data-Mining-Final-Project/blob/main/DM_project_doc_final.pdf
+
 # CRISP-DM
 **1.Business understanding**:
 Provide knowledge to an investor or buyers, whether to invest in a housing property or not. This decision has to be taken by considering various features such as, Selling Price of the property, Zestimate Price, Proximity Ranking to various Schools, Crime Rate in the area, Walk Score etc.
@@ -55,10 +58,6 @@ Use appropriate metrics for measuring models and compare them in a table: regres
 
 **6.Deployment**:
 Build a flask API to predict the investment property. Also, built a Webapp to show live predictions using the above trainned model
-
-
-# Project Document
-https://github.com/shivamishu/Data-Mining-Final-Project/blob/main/DM_project_doc_final.pdf
 
 # Webapp
 <img width="1792" alt="Screen Shot 2021-12-04 at 4 24 32 PM" src="https://user-images.githubusercontent.com/24988178/144729272-16751cec-bb55-4475-bab6-c8df0d241f64.png">
