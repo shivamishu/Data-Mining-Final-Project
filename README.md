@@ -16,6 +16,10 @@ Scrapped Dataset: https://drive.google.com/file/d/1frrCHBqil_eCGyCdHw1B7hHbCJn2D
 # COLAB LINKS
 Main Colab: https://colab.research.google.com/drive/1aEYSn5zhoKjjRyBtsyUKsaKyICRR64MU?usp=sharing   
 Scrapping Colab: https://colab.research.google.com/drive/12auv638GZARH6bjsiYzBLMtMOsqe2vFR#scrollTo=kbX2hSKHEfwH
+
+# Project PPT
+https://github.com/shivamishu/Data-Mining-Final-Project/blob/main/DM_Project_Real%20Estate%20Investment%20Prediction.pdf
+
 # CRISP-DM
 **1.Business understanding**:
 Provide knowledge to an investor or buyers, whether to invest in a housing property or not. This decision has to be taken by considering various features such as, Selling Price of the property, Zestimate Price, Proximity Ranking to various Schools, Crime Rate in the area, Walk Score etc.
