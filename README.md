@@ -7,6 +7,7 @@
 
 ## Real Estate Investment Prediction for the State of IOWA
 Link to Project PPT video: https://drive.google.com/file/d/1XAf987auzgw_xonPzDLy2Tp8ErHut0zt/view?usp=sharing
+
 Link to Project Colab and WebApp video: https://drive.google.com/file/d/15oCn1EimS_HQDZjBt20wBMKu-PyRbmwj/view?usp=sharing
 
 
