@@ -50,7 +50,7 @@ Suggest Latent Variables or Latent Manifolds, add then to the features and see h
 Use appropriate metrics for measuring models and compare them in a table: regression metrics and/or classification metrics (confusion matrix, F1 and R2 score).
 
 **6.Deployment**:
-Build a flask API to predict the investment property.
+Build a flask API to predict the investment property. Also, built a Webapp to show live predictions using the above trainned model
 
 
 # Project Document
